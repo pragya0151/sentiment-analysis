@@ -75,23 +75,23 @@ A model that only works on clean, well-written reviews isn't production-ready. T
 **🔍 Single Review Analysis**
 Real-time sentiment prediction with calibrated confidence score, probability breakdown, and SHAP waterfall explanation showing word-level contributions.
 
-![Single](screenshots/screenshot 0.png)
-![Single](screenshots/screenshot 6.png)
-![Single](screenshots/screenshot 7.png)
+![Single1](screenshots/Screenshot 0.png)
+![Single2](screenshots/Screenshot 6.png)
+![Single3](screenshots/Screenshot 7.png)
 
 
 **📦 Batch Prediction**
 Upload any CSV → select text column → get predictions + confidence scores for every row → download results. Tested on 14K+ reviews.
 
-![Batch](screenshots/screenshot 1.png)
-![Batch](screenshots/screenshot 2.png)
+![Batch1](screenshots/Screenshot 1.png)
+![Batch2](screenshots/Screenshot 2.png)
 
 **📈 Business Impact Calculator**
 5 adjustable parameters (order value, churn rate, readers/review, daily reviews, negative rate) → real-time revenue impact estimate → transparent formula breakdown.
 
-![Business](screenshots/screenshot 3.png)
-![Business](screenshots/screenshot 4.png)
-![Business](screenshots/screenshot 5.png)
+![Business1](screenshots/Screenshot 3.png)
+![Business2](screenshots/Screenshot 4.png)
+![Business3](screenshots/Screenshot 5.png)
 ---
 
 ## Error Analysis
